@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Niramit&display=swap');
+
+* {
+    font-family: "Niramit", sans-serif;
+}
+
+/* body {
+    background-image: url("https://a6.asurahosting.com/static/uploads/bn-sc-radio/background.1722933405.jpg");
+    background-repeat: no-repeat, repeat;
+} */
+
+.header {
+    text-align: center;
+}
+
+.player {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+}
